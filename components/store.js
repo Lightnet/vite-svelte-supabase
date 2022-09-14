@@ -1,3 +1,9 @@
+/*
+  Project Name: vite-svelte-supabase
+  License: MIT
+  Created by: Lightnet
+*/
+
 import { writable } from 'svelte/store';
 import { onMount, onDestroy } from 'svelte';
 

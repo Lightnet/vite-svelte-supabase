@@ -1,5 +1,5 @@
 /*
-  Project Name: vite-preact-supabase
+  Project Name: vite-svelte-supabase
   License: MIT
   Created by: Lightnet
 */
